@@ -1,5 +1,4 @@
-# Web based voice AI bot for solving Iphone problems
-
+# Web based AI voice bot 
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SriSatyaLokesh/web-based-voicebot/)
